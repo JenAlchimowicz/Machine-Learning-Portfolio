@@ -71,11 +71,11 @@ In this project I developed a system that identifies faces in an image or video 
 <table>
 <tbody>
   <tr>
-    <td> <b> Languages: &emsp;</b> </td>
+    <td> <b> Languages: </b> </td>
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Facial Emotion Recognition, Object Detection, Image Classification, API, testing, continous integration </td>
   </tr>
   <tr>
