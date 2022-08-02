@@ -115,7 +115,7 @@ This project has been developed for Kaggle Competition organised by CentraleSupe
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Semantic Segmentation, Satellite Imagery, UNet from scratch, Dice coefficient, Focal Loss, Transfer Learning </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hub
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Semantic Segmentation, Domain shift, Clinical data, High-dimensional imagery, Stain normalization </td>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ The goal of the project is to recommend high ROI football players in the Fantasy
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Random Forest, ElasticNet Regression, Web scrapping, Feature Engineering, Forcasting using supervised ML </td>
   </tr>
   <tr>
@@ -274,7 +274,7 @@ VDN             | IQL
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Multi Agent Reinforcement Learning, Value Decomposition Network, Independent Q-learning, OpenAI Gym environment </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@ Project developed to get a basic understanding of reinforcement learning. Topics
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Reinforcement Learning, Tabular RL, algorithms: greedy, epsilon-greedy, Q-learning, SARSA, RL environments </td>
   </tr>
   <tr>
@@ -354,7 +354,7 @@ The classical approach to recommender systems is to use either User-to-User or I
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key Concepts: &emsp; </b> </td>
     <td> Graph Neural Networks, Recommender Systems, Graph Attention Network, Heterogenous Graphs, Bipartite Graphs </td>
   </tr>
   <tr>
