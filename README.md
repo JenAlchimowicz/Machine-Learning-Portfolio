@@ -71,7 +71,7 @@ In this project I developed a system that identifies faces in an image or video 
 <table>
 <tbody>
   <tr>
-    <td> <b> Languages: &emsp;&emsp;</b> </td>
+    <td> <b> Languages: &emsp;</b> </td>
     <td> Python </td>
   </tr>
   <tr>
