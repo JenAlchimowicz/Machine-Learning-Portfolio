@@ -99,7 +99,7 @@ In this project I developed a system that identifies faces in an image or video 
 
 <h3 id="satellite-kaggle"> Semantic segmentation for satellite imagery - Kaggle competition </h3>
 
-This project has been developed for Kaggle Competition organised by CentraleSupelec Deep Learning course. The challenge was to segment satellite imagery from areas affected by Hurricane Harvey, with the goal of assessing the scale of flooding and damages. <br/> **1st place on Kaggle across 38 teams.**
+This project has been developed for Kaggle Competition organised by CentraleSupelec Deep Learning course. The challenge was to segment satellite imagery from areas affected by Hurricane Harvey, with the goal of assessing the scale of flooding and damages. <br/> `1st place on Kaggle across 38 teams`.
 
 **Date:** December 2021 <br/>
 **Link:** https://github.com/JenAlchimowicz/Semantic-segmentation-with-PyTorch-Satellite-Imagery
@@ -171,9 +171,11 @@ Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hub
 </tbody>
 </table>
 
-
+<br/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<br/>
 
 <h2 id="machine-learning"> Machine Learning </h2>
 
@@ -252,7 +254,11 @@ The hackathon consisted of two python projects, first one focusing on citizensâ€
 </tbody>
 </table>
 
+<br/>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<br/>
 
 <h2 id="reinforcement-learning"> Reinforcement Learning </h2>
 
@@ -328,7 +334,11 @@ Project developed to get a basic understanding of reinforcement learning. Topics
 </tbody>
 </table>
 
+<br/>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<br/>
 
 <h2 id="gnn"> Graph Neural Networks </h2>
 
@@ -367,9 +377,13 @@ The classical approach to recommender systems is to use either User-to-User or I
   </tr>
 </tbody>
 </table>
-  
+
+<br/>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-  
+
+<br/>
+
 <h2 id="NLP"> Natural Language Processing (NLP) </h2>
 
 <h3 id="disaster-tweets-kaggle"> Introduction to NLP with disaster tweets detection </h3>
@@ -400,8 +414,12 @@ Twitter has become an important communication channel in times of emergency. The
 </tbody>
 </table>
 
+<br/>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-  
+
+<br/>
+
 <h1 align="left" id="academic-achievements"> Academic achievements </h1>
  
 ### [Master in Data Sciences and Business Analytics](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/) at ESSEC & CentraleSupelec
@@ -420,9 +438,13 @@ Twitter has become an important communication channel in times of emergency. The
   <li> Member of Surrey Stars </li>
   <li> 91% GPA from Finance courses </li>
 </ul>
-  
+
+<br/>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- 
+
+<br/>
+
 <h1 align="left" id="courses"> Completed courses </h1>
 
 - [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction), Stanford Online, by Andrew Ng
