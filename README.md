@@ -75,7 +75,7 @@ In this project I developed a system that identifies faces in an image or video 
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts: </b> </td>
     <td> Facial Emotion Recognition, Object Detection, Image Classification, API, testing, continous integration </td>
   </tr>
   <tr>
@@ -115,8 +115,8 @@ This project has been developed for Kaggle Competition organised by CentraleSupe
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
-    <td> Semantic Segmentation, Satellite Imagery, UNet from scratch, Dice coefficient, Focal Loss, Transfer Learning </td>
+    <td> <b>Key&nbsp;Concepts: </b> </td>
+    <td> Semantic Segmentation, Satellite Imagery, UNet from scratch, Dice coefficient, Focal Loss, Transfer Learning</td>
   </tr>
   <tr>
     <td> <b>Key Libraries:</b> </td>
@@ -157,7 +157,7 @@ Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hub
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts: </b> </td>
     <td> Semantic Segmentation, Domain shift, Clinical data, High-dimensional imagery, Stain normalization </td>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ The goal of the project is to recommend high ROI football players in the Fantasy
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Random Forest, ElasticNet Regression, Web scrapping, Feature Engineering, Forcasting using supervised ML </td>
   </tr>
   <tr>
@@ -238,7 +238,7 @@ The hackathon consisted of two python projects, first one focusing on citizensâ€
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Supervised ML, Clustering, Smart city, Geospatial data, Signal processing </td>
   </tr>
   <tr>
@@ -274,7 +274,7 @@ VDN             | IQL
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Multi Agent Reinforcement Learning, Value Decomposition Network, Independent Q-learning, OpenAI Gym environment </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@ Project developed to get a basic understanding of reinforcement learning. Topics
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Reinforcement Learning, Tabular RL, algorithms: greedy, epsilon-greedy, Q-learning, SARSA, RL environments </td>
   </tr>
   <tr>
@@ -354,7 +354,7 @@ The classical approach to recommender systems is to use either User-to-User or I
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts: &emsp; </b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Graph Neural Networks, Recommender Systems, Graph Attention Network, Heterogenous Graphs, Bipartite Graphs </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@ Twitter has become an important communication channel in times of emergency. The
     <td> Python </td>
   </tr>
   <tr>
-    <td> <b>Key Concepts:</b> </td>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
     <td> Supervised ML, text processing, data visualisation, ML evaluation metrics </td>
   </tr>
   <tr>
