@@ -168,10 +168,12 @@ The goal of the project is to recommend high ROI football players in the Fantasy
 
 Link: https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Serie-A-using-Machine-Learning
 
-<a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358648-acbdf500-3eee-4754-8630-8c9cb1b9436b.png" align="left" height="240" width="285" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358658-07b91ea4-5e3e-4408-8828-8fe34b06f0f7.png" align="left" height="240" width="285" ></a>
 <br/>
-<a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358658-07b91ea4-5e3e-4408-8828-8fe34b06f0f7.png" align="right" height="180" width="490" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358648-acbdf500-3eee-4754-8630-8c9cb1b9436b.png" align="right" height="180" width="490" ></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
 
 <table>
 <tbody>
@@ -189,7 +191,42 @@ Link: https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Seri
   </tr>
   <tr>
     <td> <b>Tools:</b> </td>
-    <td> Jupyter notebook </td>
+    <td> Jupyter notebooks </td>
+  </tr>
+</tbody>
+</table>
+
+</br>
+
+<h3 id="hackathon-cities"> World Data League hackathon  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   March 2021</h3>
+
+The hackathon consisted of two python projects, first one focusing on citizens’ mobility patterns and second one on predicting traffic flow.
+**Submission made to world data league, however, codes not available anymore**
+
+Link: https://www.worlddataleague.com
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/74935134/182391182-27293471-3513-43ef-bea8-c69257ca6317.png">
+</p>
+
+
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key Concepts:</b> </td>
+    <td> Supervised ML, Clustering, Smart city, Geospatial data, Signal processing </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> Pandas, ipyleaflet, geopy, scipy.signal, scikit-learn, numpy </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Jupyter notebooks </td>
   </tr>
 </tbody>
 </table>
