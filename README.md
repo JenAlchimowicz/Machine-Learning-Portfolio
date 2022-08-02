@@ -47,8 +47,8 @@
           <li><a href="#disaster-tweets-kaggle"> Introduction to NLP with disaster tweets detection </a></li>
         </ul><br/>
     </ul>
-    <li><a href="#courses"> ➤ Completed courses </a></li>
-    <li><a href="#courses"> ➤ Academic achievements </a></li>
+    <li><a href="#academic-achievements"> ➤ Academic achievements </a></li>
+    <li><a href="#courses"> ➤ Completed courses </a></li>  
 </ol>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -61,7 +61,8 @@
 
 In this project I developed a system that identifies faces in an image or video and classifies each face into one of the 7 emotions: ['neutral', 'happy', 'sad', 'surprise', 'fear', 'disgust', 'anger', 'contempt']. The project is tested and wrapped into an API.
 
-Link: https://github.com/JenAlchimowicz/Emotion-Recognition-Api
+**Date:** July 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/Emotion-Recognition-Api
 
 <p align="center">
   <img width="400" alt="Screenshot 2022-07-29 at 16 38 23" src="https://user-images.githubusercontent.com/74935134/181783667-e4b01e3e-d742-4065-bb65-51a6065582b1.png">
@@ -88,13 +89,20 @@ Link: https://github.com/JenAlchimowicz/Emotion-Recognition-Api
 </tbody>
 </table>
 
-</br>
+<br/>
+
+<p align="center">
+  ________________________________________
+</p>
+
+<br/>
 
 <h3 id="satellite-kaggle"> Semantic segmentation for satellite imagery - Kaggle competition </h3>
 
 This project has been developed for Kaggle Competition organised by CentraleSupelec Deep Learning course. The challenge was to segment satellite imagery from areas affected by Hurricane Harvey, with the goal of assessing the scale of flooding and damages. <br/> **1st place on Kaggle across 38 teams.**
 
-Link: https://github.com/JenAlchimowicz/Semantic-segmentation-with-PyTorch-Satellite-Imagery
+**Date:** December 2021 <br/>
+**Link:** https://github.com/JenAlchimowicz/Semantic-segmentation-with-PyTorch-Satellite-Imagery
 
 <p align="center">
   <img width="800" alt="segmentation_mask_example" src="https://user-images.githubusercontent.com/74935134/182353450-5d131511-0223-489b-a92f-ef43d83fc481.png">
@@ -116,19 +124,26 @@ Link: https://github.com/JenAlchimowicz/Semantic-segmentation-with-PyTorch-Satel
   </tr>
   <tr>
     <td> <b>Tools:</b> </td>
-    <td> Google Colab + CUDA, Jupyter Notebook </td>
+    <td> Google Colab, Jupyter Notebook </td>
   </tr>
 </tbody>
 </table>
 
-</br>
+<br/>
+
+<p align="center">
+  ________________________________________
+</p>
+
+<br/>
 
 <h3 id="ftu-segmentation"> Functional Tissue Unit Segmentation (HuBMAP + HPA) </h3>
 
 Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hubmapconsortium.org) and [The Human Protein Atlas](https://www.proteinatlas.org). The task was to perform segmentation on high dimensinal biopsy samples to identify Functional Tissue Units. Key challenge was to overcome domain shift between train and test sets - train set used a different type of staining than test set. <br/>
 **Challenge ongoing, code not yet published**
 
-Link: https://www.kaggle.com/competitions/hubmap-organ-segmentation
+**Date:** August 2022 - ongoing <br/>
+**Link:** https://www.kaggle.com/competitions/hubmap-organ-segmentation
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/74935134/182356702-60731479-1c7d-4562-bee3-743b99ad39df.png">
@@ -166,14 +181,13 @@ Link: https://www.kaggle.com/competitions/hubmap-organ-segmentation
 
 The goal of the project is to recommend high ROI football players in the Fantasy Serie A game. Based on three data sources, two machine learning models predict player scores in the next week's game. The predicted scores are then divided by the players' prices in Fantasy Serie A to identify low-cost, high-performance players that are likely to perform well in the upcoming game. Rules of Fantasy Football can be found [here](https://fantaera.com/regolamento) and [here](https://www.premierleague.com/news/1252542). After the project I wrote an article explaining the techniques used, which can be found [here](https://medium.com/@jedrzejalchimowicz/tackle-time-series-forecasting-with-supervised-machine-learning-a-step-by-step-guide-in-python-a5510063f8c9).
 
-Link: https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Serie-A-using-Machine-Learning
+**Date:** January 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Serie-A-using-Machine-Learning
 
 <a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358658-07b91ea4-5e3e-4408-8828-8fe34b06f0f7.png" align="left" height="240" width="285" ></a>
 <br/>
 <a href="url"><img src="https://user-images.githubusercontent.com/74935134/182358648-acbdf500-3eee-4754-8630-8c9cb1b9436b.png" align="right" height="180" width="490" ></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
 
 <table>
 <tbody>
@@ -196,14 +210,21 @@ Link: https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Seri
 </tbody>
 </table>
 
-</br>
+<br/>
 
-<h3 id="hackathon-cities"> World Data League hackathon  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   March 2021</h3>
+<p align="center">
+  ________________________________________
+</p>
+
+<br/>
+
+<h3 id="hackathon-cities"> World Data League hackathon </h3>
 
 The hackathon consisted of two python projects, first one focusing on citizens’ mobility patterns and second one on predicting traffic flow.
 **Submission made to world data league, however, codes not available anymore**
 
-Link: https://www.worlddataleague.com
+**Date:** March 2021 <br/>
+**Link:** https://www.worlddataleague.com
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74935134/182391182-27293471-3513-43ef-bea8-c69257ca6317.png">
@@ -230,3 +251,183 @@ Link: https://www.worlddataleague.com
   </tr>
 </tbody>
 </table>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="reinforcement-learning"> Reinforcement Learning </h2>
+
+<h3 id="marl-vdn"> Multi Agent Reinforcement learning - simulating collaboration with VDN </h3>
+
+The goal of the project was to simulate collaborative behaviour in a custom multi-agent reinforcement learning ([MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)) environment. I look at two types of algorithms: `Independent Q-Learning (IQL)` and `Value Decomposition Network (VDN)`. The results are shown below. We can see clear collaborative behaviour from VDN, while the independent learning apprach leads to more indiviudalistic, greedy behaviour:
+
+**Date:** March 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/Multi-Agent-Reinforcement-Learning-simulating-collaboration-with-VDN-and-IQL
+
+VDN             | IQL
+:-------------------------:|:-------------------------:
+<a><img src="https://user-images.githubusercontent.com/74935134/161282878-4cc5a9cb-c68a-4e93-8a12-e50dfb491263.gif" align="middle" width="250" height="250"/>  |  <a><img src="https://user-images.githubusercontent.com/74935134/161281461-926ef432-d1c1-4a29-97be-c184871dce8b.gif" align="middle" width="250" height="250"/>
+  
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key Concepts:</b> </td>
+    <td> Multi Agent Reinforcement Learning, Value Decomposition Network, Independent Q-learning, OpenAI Gym environment </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> gym, numpy, Pytorch, matplotlib </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Visual Studio Code, Jupyter notebooks </td>
+  </tr>
+</tbody>
+</table>
+
+<br/>
+
+<p align="center">
+  ________________________________________
+</p>
+
+<br/>
+
+<h3 id="rl-snake"> Playing Snake with Reinforcement Learning </h3>
+
+Project developed to get a basic understanding of reinforcement learning. Topics covered: custom RL environemnt for snake game based on OpenAI Gym, RL agents implemented from scratch and Model performance comparison (greedy, e-greedy, Q-learning, expected SARSA and more).
+
+**Date:** February 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/Reinforcement-Learning-Snake-from-scratch
+
+<p align="center">
+  <img width="350" src="https://user-images.githubusercontent.com/74935134/153014017-58b8dbdd-eed8-4cab-9c62-c87dcfe9cf20.gif">
+</p>
+
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key Concepts:</b> </td>
+    <td> Reinforcement Learning, Tabular RL, algorithms: greedy, epsilon-greedy, Q-learning, SARSA, RL environments </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> gym, numpy, matplotlib </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Visual Studio Code, Jupyter notebooks </td>
+  </tr>
+</tbody>
+</table>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="gnn"> Graph Neural Networks </h2>
+
+<h3 id="gnn-rec-sys"> GNN-based Recommender System </h3>
+
+The classical approach to recommender systems is to use either User-to-User or Item-to-Item Collaborative Filtering, or a combination of the two. These approaches have been extensively covered from both research and business use case angles. Next, graph-based approach have been proposed. However, they typically employed a multi-stage pipeline, consisting of separate graph feature extraction models and link prediction models, which were treated and trained separately. In this project we explore an end-to-end solution, which contrary to those early approaches trains the entire pipeline as one piece. Developed for CentraleSupelec Machine Learning in Network Sciences course. **Credits:** Nevina Dalal, Enrico Burigana, Thomas Gak-Deluen, Jen Alchimowicz
+
+**Date:** April 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/End-to-end-GNN-based-recommender-system
+
+<br/>
+  
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/74935134/164025710-5b3ae7b4-ca65-4d5d-ba5f-559a67c92377.png">
+</p>
+
+  <br/>
+
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key Concepts:</b> </td>
+    <td> Graph Neural Networks, Recommender Systems, Graph Attention Network, Heterogenous Graphs, Bipartite Graphs </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> PyTorch geometric, networkx, pandas, numpy, PyTorch </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Jupyter notebooks, Google Colab </td>
+  </tr>
+</tbody>
+</table>
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
+<h2 id="NLP"> Natural Language Processing (NLP) </h2>
+
+<h3 id="disaster-tweets-kaggle"> Introduction to NLP with disaster tweets detection </h3>
+
+Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). The purpose of this project is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. Classification is done primarily by the content of the tweet.
+
+**Date:** December 2020 <br/>
+**Link:** https://github.com/JenAlchimowicz/NLP-with-Disaster-Tweets-Kaggle-Competition
+
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key Concepts:</b> </td>
+    <td> Supervised ML, text processing, data visualisation, ML evaluation metrics </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> pandas, scikit-learn, numpy, nltk, matplotlib, seaborn </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Jupyter notebooks </td>
+  </tr>
+</tbody>
+</table>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
+<h1 align="left" id="academic-achievements"> Academic achievements </h1>
+ 
+### [Master in Data Sciences and Business Analytics](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/) at ESSEC & CentraleSupelec
+  
+<ul>
+  <li> Highest grade in cohort from Deep Learning and Reinforcement Learning courses </li>
+  <li> 1st place among 38 teams in Deep Learning competition </li>
+  <li> 3rd place among 25 teams in Machine Learning competition </li>
+  <li> 17.64/20 GPA</li>
+</ul>
+
+### [Bachelor in Business Management (BSc)](https://www.surrey.ac.uk/undergraduate/business-management) at University of Surrey
+
+<ul>
+  <li> Overall grade: High First class (highest possible grade) </li>
+  <li> Member of Surrey Stars </li>
+  <li> 91% GPA from Finance courses </li>
+</ul>
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+<h1 align="left" id="courses"> Completed courses </h1>
+
+- [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction), Stanford Online, by Andrew Ng
+- [Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning), Coursera, by Andrew Ng
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/), Udemy, by Jose Portilla
+  
+All certificates available on my [Linkedin](https://www.linkedin.com/in/jedrzej-alchimowicz-b972a0151/)
+  
