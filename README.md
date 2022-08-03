@@ -99,7 +99,7 @@ In this project I developed a system that identifies faces in an image or video 
 
 <h3 id="satellite-kaggle"> Semantic segmentation for satellite imagery - Kaggle competition </h3>
 
-This project has been developed for Kaggle Competition organised by CentraleSupelec Deep Learning course. The challenge was to segment satellite imagery from areas affected by Hurricane Harvey, with the goal of assessing the scale of flooding and damages. <br/> `1st place on Kaggle across 38 teams`.
+This project has been developed for Kaggle Competition organised by CentraleSupelec Deep Learning course. The challenge was to segment satellite imagery from areas affected by Hurricane Harvey, to assess the scale of flooding and damages. <br/> `1st place on Kaggle across 38 teams`.
 
 **Date:** December 2021 <br/>
 **Link:** https://github.com/JenAlchimowicz/Semantic-segmentation-with-PyTorch-Satellite-Imagery
@@ -139,7 +139,7 @@ This project has been developed for Kaggle Competition organised by CentraleSupe
 
 <h3 id="ftu-segmentation"> Functional Tissue Unit Segmentation (HuBMAP + HPA) </h3>
 
-Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hubmapconsortium.org) and [The Human Protein Atlas](https://www.proteinatlas.org). The task was to perform segmentation on high dimensinal biopsy samples to identify Functional Tissue Units. Key challenge was to overcome domain shift between train and test sets - train set used a different type of staining than test set. <br/>
+Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hubmapconsortium.org) and [The Human Protein Atlas](https://www.proteinatlas.org). The task was to perform segmentation on high-dimensional biopsy samples to identify Functional Tissue Units. The key challenge was to overcome domain shift between train and test sets - train set used a different type of staining than test set. <br/>
 **Challenge ongoing, code not yet published**
 
 **Date:** August 2022 - ongoing <br/>
@@ -181,7 +181,7 @@ Kaggle challenge organised by [The Human BioMolecular Atlas Program](https://hub
 
 <h3 id="ml-fantasy-serie-a"> Predicting player scores in fantasy football with machine learning </h3>
 
-The goal of the project is to recommend high ROI football players in the Fantasy Serie A game. Based on three data sources, two machine learning models predict player scores in the next week's game. The predicted scores are then divided by the players' prices in Fantasy Serie A to identify low-cost, high-performance players that are likely to perform well in the upcoming game. Rules of Fantasy Football can be found [here](https://fantaera.com/regolamento) and [here](https://www.premierleague.com/news/1252542). After the project I wrote an article explaining the techniques used, which can be found [here](https://medium.com/@jedrzejalchimowicz/tackle-time-series-forecasting-with-supervised-machine-learning-a-step-by-step-guide-in-python-a5510063f8c9).
+The goal of the project is to recommend high ROI football players in the Fantasy Serie A game. Based on three data sources, two machine learning models predict player scores in the next week's game. The predicted scores are then divided by the players' prices in Fantasy Serie A to identify low-cost, high-performance players that are likely to perform well in the upcoming game. Rules of Fantasy Football can be found [here](https://fantaera.com/regolamento) and [here](https://www.premierleague.com/news/1252542). After the project, I wrote an article explaining the techniques used, which can be found [here](https://medium.com/@jedrzejalchimowicz/tackle-time-series-forecasting-with-supervised-machine-learning-a-step-by-step-guide-in-python-a5510063f8c9).
 
 **Date:** January 2022 <br/>
 **Link:** https://github.com/JenAlchimowicz/Predicting-player-scores-in-Fantasy-Serie-A-using-Machine-Learning
@@ -223,7 +223,7 @@ The goal of the project is to recommend high ROI football players in the Fantasy
 <h3 id="hackathon-cities"> World Data League hackathon </h3>
 
 The hackathon consisted of two python projects, first one focusing on citizens’ mobility patterns and second one on predicting traffic flow.
-**Submission made to world data league, however, codes not available anymore**
+**Submission made to world data league, however, codes are not available anymore**
 
 **Date:** March 2021 <br/>
 **Link:** https://www.worlddataleague.com
@@ -264,7 +264,7 @@ The hackathon consisted of two python projects, first one focusing on citizens�
 
 <h3 id="marl-vdn"> Multi Agent Reinforcement learning - simulating collaboration with VDN </h3>
 
-The goal of the project was to simulate collaborative behaviour in a custom multi-agent reinforcement learning ([MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)) environment. I look at two types of algorithms: `Independent Q-Learning (IQL)` and `Value Decomposition Network (VDN)`. The results are shown below. We can see clear collaborative behaviour from VDN, while the independent learning apprach leads to more indiviudalistic, greedy behaviour:
+The goal of the project was to simulate collaborative behaviour in a custom multi-agent reinforcement learning ([MARL](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)) environment. I look at two types of algorithms: `Independent Q-Learning (IQL)` and `Value Decomposition Network (VDN)`. The results are shown below. We can see clear collaborative behaviour from VDN, while the independent learning approach leads to more individualistic, greedy behaviour:
 
 **Date:** March 2022 <br/>
 **Link:** https://github.com/JenAlchimowicz/Multi-Agent-Reinforcement-Learning-simulating-collaboration-with-VDN-and-IQL
@@ -304,7 +304,7 @@ VDN             | IQL
 
 <h3 id="rl-snake"> Playing Snake with Reinforcement Learning </h3>
 
-Project developed to get a basic understanding of reinforcement learning. Topics covered: custom RL environemnt for snake game based on OpenAI Gym, RL agents implemented from scratch and Model performance comparison (greedy, e-greedy, Q-learning, expected SARSA and more).
+Project developed to get a basic understanding of reinforcement learning. Topics covered: custom RL environment for snake game based on OpenAI Gym, RL agents implemented from scratch and Model performance comparison (greedy, e-greedy, Q-learning, expected SARSA and more).
 
 **Date:** February 2022 <br/>
 **Link:** https://github.com/JenAlchimowicz/Reinforcement-Learning-Snake-from-scratch
@@ -344,7 +344,7 @@ Project developed to get a basic understanding of reinforcement learning. Topics
 
 <h3 id="gnn-rec-sys"> GNN-based Recommender System </h3>
 
-The classical approach to recommender systems is to use either User-to-User or Item-to-Item Collaborative Filtering, or a combination of the two. These approaches have been extensively covered from both research and business use case angles. Next, graph-based approach have been proposed. However, they typically employed a multi-stage pipeline, consisting of separate graph feature extraction models and link prediction models, which were treated and trained separately. In this project we explore an end-to-end solution, which contrary to those early approaches trains the entire pipeline as one piece. Developed for CentraleSupelec Machine Learning in Network Sciences course. **Credits:** Nevina Dalal, Enrico Burigana, Thomas Gak-Deluen, Jen Alchimowicz
+The classical approach to recommender systems is to use either User-to-User or Item-to-Item Collaborative Filtering, or a combination of the two. These approaches have been extensively covered from both research and business use case angles. Next, graph-based approaches have been proposed. However, they typically employed a multi-stage pipeline, consisting of separate graph feature extraction models and link prediction models, which were treated and trained separately. In this project we explore an end-to-end solution, which contrary to those early approaches trains the entire pipeline as one piece. Developed for CentraleSupelec Machine Learning in Network Sciences course. **Credits:** Nevina Dalal, Enrico Burigana, Thomas Gak-Deluen, Jen Alchimowicz
 
 **Date:** April 2022 <br/>
 **Link:** https://github.com/JenAlchimowicz/End-to-end-GNN-based-recommender-system
@@ -388,7 +388,7 @@ The classical approach to recommender systems is to use either User-to-User or I
 
 <h3 id="disaster-tweets-kaggle"> Introduction to NLP with disaster tweets detection </h3>
 
-Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). The purpose of this project is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. Classification is done primarily by the content of the tweet.
+Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies). The purpose of this project is to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. Classification is done primarily by the content of the tweet.
 
 **Date:** December 2020 <br/>
 **Link:** https://github.com/JenAlchimowicz/NLP-with-Disaster-Tweets-Kaggle-Competition
