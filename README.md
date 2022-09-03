@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jedrzej-alchimowicz-b972a0151/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?"> </a>
   <a href="https://medium.com/@jedrzejalchimowicz"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
-  <a href="https://github.com/JenAlchimowicz"> <img src="https://img.shields.io/badge/Github%20Repos-8-success?logo=github&style=for-the-badge"> </a>
+  <a href="https://github.com/JenAlchimowicz"> <img src="https://img.shields.io/badge/Github%20Repos-9-success?logo=github&style=for-the-badge"> </a>
   <a href="https://fastapi.tiangolo.com"> <img src="https://img.shields.io/badge/Completed%20Projects-20%2B-success?logo=python&style=for-the-badge"> </a>
   <a href="https://docs.pytest.org/en/7.1.x/contents.html"> <img src="https://img.shields.io/badge/Years%20of%20experience-2%2B-blue?logo=bookmeter&style=for-the-badge&logoColor=white"> </a>
 </p>
@@ -31,6 +31,7 @@
       <li><a href="#machine-learning"> Machine Learning </a></li>
         <ul>
           <li><a href="#ml-fantasy-serie-a"> Predicting player scores in fantasy football with machine learning </a></li>
+          <li><a href="#ml-tpsaug2022"> Tabular Playground Series August 2022 - Kaggle </a></li>
           <li><a href="#hackathon-cities"> World Data League hackathon </a></li>
         </ul><br/>
       <li><a href="#reinforcement-learning"> Reinforcement Learning </a></li>
@@ -208,6 +209,47 @@ The goal of the project is to recommend high ROI football players in the Fantasy
   <tr>
     <td> <b>Tools:</b> </td>
     <td> Jupyter notebooks </td>
+  </tr>
+</tbody>
+</table>
+
+<br/>
+
+<p align="center">
+  ________________________________________
+</p>
+
+<br/>
+
+<h3 id="ml-tpsaug2022"> Tabular Playground Series August 2022 - Kaggle </h3>
+
+This project aimed to implement an exhaustive model search pipeline using mlflow, to find the best data/model configuration for this challenge. First, I conducted an EDA analysis to familiarise myself with the data and guide my future efforts. Second, I created a search pipeline where several elements were configurable: imputer type, new features to be created, scaling method, feature selection method, type of model and more challenge-specific choices. Then, I run an exhaustive search saving each configuration and it's results in mlflow. This was an iterative process where each new search guided future configuration choices. Lastly, I chose few well-performing but heterogenous models to create an ensable solution. [Link to competition](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview). <br/> <br/>
+`51st place on Kaggle across 1889 teams`
+
+**Date:** August 2022 <br/>
+**Link:** https://github.com/JenAlchimowicz/TPSAUG2022-Kaggle
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74935134/188275703-4f04668a-aa8d-4921-8375-d1d2cfc9de79.png">
+</p>
+
+<table>
+<tbody>
+  <tr>
+    <td> <b>Languages:</b> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <b>Key&nbsp;Concepts:</b> </td>
+    <td> Experiment tracking, model management, logistic regression, AUROC </td>
+  </tr>
+  <tr>
+    <td> <b>Key Libraries:</b> </td>
+    <td> mlflow, hyperopt, scikit-learn, pandas, numpy, matplotlib </td>
+  </tr>
+  <tr>
+    <td> <b>Tools:</b> </td>
+    <td> Visual Studio Code, mlflow </td>
   </tr>
 </tbody>
 </table>
